@@ -1,0 +1,7 @@
+-PROF: professional and high administrative 
+-EXEC: managerial and executive 
+-HSUP: high supervisory 
+-LSUP: lower supervisory 
+-SKIL: skilled manual and routine nonmanual 
+-SEMI: semi-skilled manual 
+-UNSK: unskilled manual

@@ -1,0 +1,11 @@
+The data set contains the following 7 variables:
+
+      V1: Sales growth 
+      V2: Sales profitability 
+      V3: New account sales 
+      V4: Creativity test 
+      V5: Mechanical reasoning test 
+      V6: Abstract reasoning test 
+      V7: Mathematics test
+
+A firm is attempting to evaluate the quality of its sales staff and is trying to find some tests that may reveal the potential for good performance in sales. The firm has selected 50 of its employees at random and has evaluated each employee on 3 measures of performance (the first 3 variables that have been converted to a scale, on which 100 indicates average performance) and on 4 tests (the remaining 4 variables, measured on a scale of 0-50).
